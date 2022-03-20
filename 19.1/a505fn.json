@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": "1647776061",
+      "filename": "lineage-19.1-20220320-UNOFFICIAL-a505fn.zip",
+      "id": "168c2a5e743c20a64b4624abff5b5e38ae31d4b75356ce69bd6056d160a399cf",
+      "romtype": "UNOFFICIAL",
+      "size": "778709782",
+      "url": "releases/download/a505fn_lineage-19.1_1647776061/lineage-19.1-20220320-UNOFFICIAL-a505fn.zip",
+      "version": "19.1"
+    }
+  ]
+}
